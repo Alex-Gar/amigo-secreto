@@ -28,8 +28,10 @@ En este desafío, se creo un programa que simula el juego del amigo secreto, don
 ## Características de la aplicación y demostración
 
 * Asignación Aleatoria: El programa es capaz de asignar a cada participante un amigo secreto de manera aleatoria.
-* Interfaz de Usuario: Cuenta con una interfaz simple donde los usuarios ingresen sus nombres y vean quién les ha tocado como amigo secreto.
-![Interfaz del juego del amigo secreto](image-2.png)
+* Interfaz de Usuario: Cuenta con una interfaz simple donde los usuarios ingresen sus nombres 
+![Interfaz del juego del amigo secreto](image-4.png)
+*Una vez que ingresen los nombre al precionar el boton (Sortear amigo) vean quién les ha tocado como amigo secreto.
+![Sorteo del amigo secreto](image-2.png)
 * Uso de Funciones: Implementa funciones para manejar la lógica de asignación, así como para mostrar los resultados.
 * Manejo de Listas: Utiliza listas para almacenar los nombres de los participantes y para gestionar las asignaciones.
 * Persistencia de Datos: El proyecto utiliza Git/GitHub, lo que permite llevar un control de las versiones del proyecto.
