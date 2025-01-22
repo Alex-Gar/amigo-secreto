@@ -1,7 +1,7 @@
 ## Título-e-imagen-de-portada
 
 <h1 align="center"> Challenge Amigo secreto </h1>
-![Portada del reto](image.png)
+![Logo del proyectp](image-3.png)
 
 ## Índice
 
@@ -19,13 +19,13 @@
 
 \*[Personas-Desarrolladores del Proyecto](#Autores)
 
-## descripción-del-proyecto
+## Descripción del proyecto
 
 El desafío "Amigo secreto" está diseñado para poder aplicar de manera práctica los conocimientos adquiridos en varios cursos de Alura Latam en colaboración con Oracle y su programa de educación ONE. Este reto permite trabajar conla lógica de programación, funciones y listas, además de optimizar los resultados utilizando herramientas como los son Git/GitHub para el manejo de versiones.
 
 En este desafío, se creo un programa que simula el juego del amigo secreto, donde los participantes se asignan entre sí de manera aleatoria.
 
-## Características-de-la-aplicación-y-demostración
+## Características de la aplicación y demostración
 
 Asignación Aleatoria: El programa es capaz de asignar a cada participante un amigo secreto de manera aleatoria.
 Interfaz de Usuario: Cuenta con una interfaz simple donde los usuarios ingresen sus nombres y vean quién les ha tocado como amigo secreto.
@@ -34,12 +34,12 @@ Uso de Funciones: Implementa funciones para manejar la lógica de asignación, a
 Manejo de Listas: Utiliza listas para almacenar los nombres de los participantes y para gestionar las asignaciones.
 Persistencia de Datos: El proyecto utiliza Git/GitHub, lo que permite llevar un control de las versiones del proyecto.
 
-## acceso-proyecto
+## Acceso proyecto
 
 Para utilizar el juego solo se necesita clonar este repositorio o descargar el proyecto el .zip
 Una vez echo el paso anterior solo necesitaras abril el archivo index.html y listo ya podras jugar!
 
-## tecnologías-utilizadas
+## Tecnologías utilizadas
 
  <table>
       <tr>
@@ -58,8 +58,7 @@ Una vez echo el paso anterior solo necesitaras abril el archivo index.html y lis
         </td>
       </tr>
  </table>
- 
+
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/105954153?v=4" width=115><br><sub>Alex Garcia</sub>](https://github.com/Alex-Gar)
-| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/105954153?v=4" width=100 borde-radius=50%><br><sub>Alex Garcia</sub>](https://github.com/Alex-Gar) |
