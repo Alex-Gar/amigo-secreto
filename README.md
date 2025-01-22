@@ -1,7 +1,8 @@
 ## Título e imagen de portada
 
 <h1 align="center"> Challenge Amigo secreto </h1>
-![Logo del proyecto](https://github.com/user-attachments/assets/2f9441d1-12a6-4501-a702-8095ad7d0ec7)
+
+![Logo del proyecto](image-5.png)
 
 ## Índice
 
