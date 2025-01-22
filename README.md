@@ -1,7 +1,7 @@
-## Título-e-imagen-de-portada
+## Título e imagen de portada
 
 <h1 align="center"> Challenge Amigo secreto </h1>
-![Logo del proyectp](image-3.png)
+![Logo del proyecto](https://github.com/user-attachments/assets/2f9441d1-12a6-4501-a702-8095ad7d0ec7)
 
 ## Índice
 
@@ -61,4 +61,4 @@ Una vez echo el paso anterior solo necesitaras abril el archivo index.html y lis
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/105954153?v=4" width=100 borde-radius=50%><br><sub>Alex Garcia</sub>](https://github.com/Alex-Gar) |
+[<img src="https://avatars.githubusercontent.com/u/105954153?v=4" width=100 borde-radius=50%><br><sub>Alex Garcia</sub>](https://github.com/Alex-Gar)
